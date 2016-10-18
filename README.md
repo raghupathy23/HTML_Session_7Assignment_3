@@ -1,2 +1,2 @@
-# HTML_Session_7Assignment_3
-HTML_Session_7Assignment_3
+Write a JavaScript function named counter. Each time we call this function, we should get a next incremented value starting from 1. 
+Hint: Use closure 
